@@ -7,7 +7,7 @@ console.log(PIXI);
 
 let spine; // Declare spine before loading it
 
-PIXI.Assets.load("https://ecstatia.github.io/spine/CLEAN-SIBUXIANG ILLUST.json"").then((spineData) => {
+PIXI.Assets.load("https://ecstatia.github.io/sibuxiang-illust-thingy/spine/CLEAN-SIBUXIANG ILLUST.json"").then((spineData) => {
     spine = new PIXI.spine.Spine(spineData);
     app.stage.addChild(spine);
 });

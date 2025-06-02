@@ -1,7 +1,3 @@
-const script = document.createElement("script");
-script.type = "module"; // Mark it as a module
-script.src = "https://cdn.jsdelivr.net/gh/ecstatia/repository/script.js";
-document.body.appendChild(script);
 
 
 let app = new PIXI.Application({ width: window.innerWidth, height: window.innerHeight });

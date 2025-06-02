@@ -1,0 +1,405 @@
+
+CLEAN-SIBUXIANG ILLUST.png
+size: 5153,4402
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BADAN
+  rotate: true
+  xy: 2, 188
+  size: 936, 1369
+  orig: 936, 1369
+  offset: 0, 0
+  index: -1
+CeilingTop
+  rotate: true
+  xy: 3396, 2568
+  size: 576, 1423
+  orig: 576, 1423
+  offset: 0, 0
+  index: -1
+EarFar
+  rotate: true
+  xy: 1487, 3869
+  size: 260, 617
+  orig: 260, 617
+  offset: 0, 0
+  index: -1
+EarNear
+  rotate: true
+  xy: 3869, 3146
+  size: 473, 720
+  orig: 473, 720
+  offset: 0, 0
+  index: -1
+FINGA
+  rotate: true
+  xy: 1700, 4301
+  size: 99, 166
+  orig: 226, 168
+  offset: 1, 1
+  index: -1
+FarLowerArm
+  rotate: true
+  xy: 1892, 3475
+  size: 392, 752
+  orig: 392, 752
+  offset: 0, 0
+  index: -1
+FarUpperArm
+  rotate: true
+  xy: 3142, 3342
+  size: 421, 725
+  orig: 425, 729
+  offset: 2, 2
+  index: -1
+GreenCeiling
+  rotate: true
+  xy: 2, 1126
+  size: 888, 1820
+  orig: 888, 1820
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 1704, 2834
+  size: 722, 639
+  orig: 722, 639
+  offset: 0, 0
+  index: -1
+HornFar
+  rotate: true
+  xy: 3590, 4120
+  size: 171, 412
+  orig: 452, 415
+  offset: 27, 1
+  index: -1
+HornNear
+  rotate: true
+  xy: 4004, 4043
+  size: 233, 399
+  orig: 243, 403
+  offset: 2, 2
+  index: -1
+MR-A_BACK
+  rotate: true
+  xy: 2428, 2780
+  size: 560, 966
+  orig: 560, 966
+  offset: 0, 0
+  index: -1
+MR-A_FRONT
+  rotate: false
+  xy: 2, 2406
+  size: 830, 679
+  orig: 830, 679
+  offset: 0, 0
+  index: -1
+MRBackBottom
+  rotate: true
+  xy: 4338, 4278
+  size: 122, 138
+  orig: 124, 140
+  offset: 1, 1
+  index: -1
+MRBackTop
+  rotate: true
+  xy: 4762, 4257
+  size: 143, 148
+  orig: 146, 152
+  offset: 1, 2
+  index: -1
+Mask
+  rotate: false
+  xy: 1365, 3511
+  size: 525, 356
+  orig: 584, 377
+  offset: 32, 19
+  index: -1
+MaskRope
+  rotate: false
+  xy: 2, 4328
+  size: 172, 72
+  orig: 174, 74
+  offset: 1, 1
+  index: -1
+NearLowerArm
+  rotate: false
+  xy: 3195, 3765
+  size: 796, 353
+  orig: 872, 505
+  offset: 56, 126
+  index: -1
+NearUpperArm
+  rotate: true
+  xy: 3993, 3621
+  size: 337, 970
+  orig: 368, 973
+  offset: 29, 1
+  index: -1
+NeckFluf
+  rotate: true
+  xy: 2646, 3382
+  size: 485, 494
+  orig: 488, 498
+  offset: 1, 2
+  index: -1
+PillarA
+  rotate: true
+  xy: 2404, 1868
+  size: 698, 2650
+  orig: 3010, 2652
+  offset: 2242, 1
+  index: -1
+PillarB
+  rotate: true
+  xy: 2, 3087
+  size: 422, 1700
+  orig: 1538, 2113
+  offset: 380, 1
+  index: -1
+PillarC
+  rotate: true
+  xy: 2, 3573
+  size: 347, 1361
+  orig: 1282, 1620
+  offset: 461, 1
+  index: -1
+StoreDark
+  rotate: true
+  xy: 3046, 967
+  size: 899, 1454
+  orig: 901, 1456
+  offset: 1, 1
+  index: -1
+StoreFabricFar
+  rotate: true
+  xy: 2, 4169
+  size: 135, 885
+  orig: 898, 1333
+  offset: 393, 243
+  index: -1
+StoreFabricMid
+  rotate: true
+  xy: 2106, 3869
+  size: 260, 1087
+  orig: 386, 1147
+  offset: 36, 59
+  index: -1
+StoreFabricNear
+  rotate: true
+  xy: 889, 4141
+  size: 152, 1035
+  orig: 258, 1118
+  offset: 45, 82
+  index: -1
+StoreInside
+  rotate: true
+  xy: 834, 2016
+  size: 816, 1568
+  orig: 837, 1570
+  offset: 20, 1
+  index: -1
+StorePillar1
+  rotate: true
+  xy: 2, 3922
+  size: 217, 1483
+  orig: 219, 1485
+  offset: 1, 1
+  index: -1
+StorePillar2
+  rotate: true
+  xy: 176, 4306
+  size: 94, 1522
+  orig: 96, 1524
+  offset: 1, 1
+  index: -1
+StorePillarNear
+  rotate: true
+  xy: 1926, 4131
+  size: 160, 1662
+  orig: 162, 1664
+  offset: 1, 1
+  index: -1
+StoreWall
+  rotate: true
+  xy: 2564, 2
+  size: 963, 1845
+  orig: 965, 1847
+  offset: 1, 1
+  index: -1
+StoreWoodTop
+  rotate: true
+  xy: 1373, 11
+  size: 955, 1189
+  orig: 957, 1191
+  offset: 1, 1
+  index: -1
+WingUnder
+  rotate: false
+  xy: 4912, 4136
+  size: 239, 264
+  orig: 263, 266
+  offset: 23, 1
+  index: -1
+WoodEvenFarther
+  rotate: false
+  xy: 2018, 4293
+  size: 2318, 107
+  orig: 2320, 109
+  offset: 1, 1
+  index: -1
+WoodFar
+  rotate: true
+  xy: 4478, 4263
+  size: 137, 282
+  orig: 137, 282
+  offset: 0, 0
+  index: -1
+WoodNear
+  rotate: true
+  xy: 1824, 968
+  size: 898, 1220
+  orig: 898, 1220
+  offset: 0, 0
+  index: -1
+ZaWing
+  rotate: true
+  xy: 4405, 3960
+  size: 301, 340
+  orig: 360, 390
+  offset: 58, 14
+  index: -1
+mouthy
+  rotate: false
+  xy: 1868, 4295
+  size: 148, 105
+  orig: 150, 108
+  offset: 1, 1
+  index: -1
+
+CLEAN-SIBUXIANG ILLUST2.png
+size: 4582,2941
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+COATBACK
+  rotate: true
+  xy: 2, 200
+  size: 1440, 1482
+  orig: 1900, 1483
+  offset: 266, 0
+  index: -1
+COAT_FRONT
+  rotate: false
+  xy: 2895, 1542
+  size: 1542, 1397
+  orig: 1542, 1397
+  offset: 0, 0
+  index: -1
+Ceiling
+  rotate: false
+  xy: 1486, 2
+  size: 3094, 1538
+  orig: 3094, 1538
+  offset: 0, 0
+  index: -1
+PF1
+  rotate: false
+  xy: 2, 1706
+  size: 1411, 1233
+  orig: 1411, 1233
+  offset: 0, 0
+  index: -1
+SemiCircleThingies
+  rotate: true
+  xy: 1415, 1642
+  size: 1297, 1478
+  orig: 1297, 1478
+  offset: 0, 0
+  index: -1
+
+CLEAN-SIBUXIANG ILLUST3.png
+size: 4504,2654
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BASE
+  rotate: false
+  xy: 2, 2
+  size: 4500, 2650
+  orig: 4502, 2652
+  offset: 1, 1
+  index: -1
+
+CLEAN-SIBUXIANG ILLUST4.png
+size: 4504,2654
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 2, 2
+  size: 4500, 2650
+  orig: 4502, 2652
+  offset: 1, 1
+  index: -1
+
+CLEAN-SIBUXIANG ILLUST5.png
+size: 4504,2654
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BORDER
+  rotate: false
+  xy: 2, 2
+  size: 4500, 2650
+  orig: 4502, 2652
+  offset: 1, 1
+  index: -1
+
+CLEAN-SIBUXIANG ILLUST6.png
+size: 4504,2654
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+GRADIENT
+  rotate: false
+  xy: 2, 2
+  size: 4500, 2650
+  orig: 4502, 2652
+  offset: 1, 1
+  index: -1
+
+CLEAN-SIBUXIANG ILLUST7.png
+size: 3929,2654
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Leaves
+  rotate: false
+  xy: 2, 2
+  size: 3925, 2650
+  orig: 3927, 2652
+  offset: 1, 1
+  index: -1
+
+CLEAN-SIBUXIANG ILLUST8.png
+size: 4909,2977
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bark]
+  rotate: false
+  xy: 2654, 581
+  size: 2253, 2394
+  orig: 2562, 2396
+  offset: 194, 1
+  index: -1
+SCENERY
+  rotate: true
+  xy: 2, 2
+  size: 2973, 2650
+  orig: 3008, 2652
+  offset: 1, 1
+  index: -1
